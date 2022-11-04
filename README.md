@@ -3,6 +3,7 @@
 
 [danielhjermitslev.com](http://www.danielhjermitslev.com)
 </br>
+🚀  I'm currently working on [Legends of Uzarn](http://legendsofuzarn.com)
 ### Skills
 
 <p align="left">
