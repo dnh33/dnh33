@@ -7,7 +7,7 @@
 
 ### Skills
 
-💧 FrontEnd: React, Next.js, Redux, , TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, DaisyUI, Mui
+💧 FrontEnd: React, Next.js, Redux, , TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, Chakra UI, Next UI, DaisyUI, Mui
 
 🔸 BackEnd: Node.js, ExpressJS, Python, AWS, RESTFul API, FastAPI, PHP, C#
 
