@@ -34,15 +34,7 @@
     <td align="center" width="40%">
         <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=dnh33&count_private=true&show_icons=true&theme=algolia" alt="dnh33" /></a>
     </td>
-    <td align="center" width="40%">
-        <a href="#-my-github-stats--" target="_blank"><img alt="dnh33" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dnh33&theme=transparent" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="48%">
-        <a href="#-my-github-stats--"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=dnh33&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="dnh33" /></a>
-    </td>
-    <td align="center" width="48%">
+   <td align="center" width="48%">
        <a href="https://github.com/dnh33"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dnh33&theme=react-dark" alt="dnh33" />
     </td>
   </tr>
