@@ -36,7 +36,7 @@
         <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=dnh33&count_private=true&show_icons=true&theme=algolia" alt="dnh33" /></a>
     </td>
    <td align="center" width="48%">
-       <a href="https://github.com/dnh33"><img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" /></a>
+       <a href="https://github.com/dnh33"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dnh33&theme=react-dark" alt="dnh33" /></a>
     </td>
   </tr>
 </table>
