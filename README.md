@@ -21,23 +21,4 @@
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
- <div style="display: flex; align-items: center">
-  <h1> 
-    My GitHub Stats 
-    <a href="#-my-github-stats--">
-      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
-    </a>
-  </h1>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=dnh33&count_private=true&show_icons=true&theme=algolia" alt="dnh33" /></a>
-    </td>
-   <td align="center" width="48%">
-       <a href="https://github.com/dnh33"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dnh33&theme=react-dark" alt="dnh33" /></a>
-    </td>
-  </tr>
-</table>
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
