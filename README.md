@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, my name is Daniel<a href="https://www.danielhjermitslev.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h3>
+<h3 align="center">Hi there, my name is Daniel<a href="https://hjermitslev.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h3>
 <h3 align="center">AI-infused Developer</h3>
 
 <!-- <div align="center">
